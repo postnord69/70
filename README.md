@@ -1,2 +1,2 @@
-# 70
-Laroverken_Fighters-3or
+# Laroverken_Fighters
+This was made during my time at school 
